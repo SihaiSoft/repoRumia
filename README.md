@@ -6,6 +6,7 @@
 ### 这个库为什么叫“露米娅Rumia”？
 
 我喜欢使用东方project的人物来命名，这是第一个repository（不知道怎么译比较好^^），我就用新作中第一个出场的人物⑩命名。
+[文章1](A.md)
 
 ```markdown
 Syntax highlighted code block
